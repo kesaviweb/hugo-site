@@ -2,18 +2,26 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People are Say About Me?
+  ## What our clients Say About Us?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Faraaz Siddqui, Call Doctor UAE
+    comment: We has a lot of design and quality issues with our website, which were resolved by KWS and since then it has been running butter smooth. Out website is now being maintained by KWS & we are extremely happy wiht our decision.
+    time: October 20, 2019
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Shyam Sunder, Radheyshyam Caterers
+    comment: My webiste has all the elements that make it stunning in looks and professional in reaching its targeted customers. I was kept in the loop throughout he designing process. I got regular updates on the progress and everything was finalized after taking my consent. Extremely professional approach by them.
+    time: Jan 16, 2019
+    star: 5
+  - name: Shiv Yadav, Elite Butlers
+    comment: An agency true to what they advertise. They are truly affordable. I got my website @₹5000/- only and I really love the unique UI and premium looks created by Kesavi Web Solutions. I am going to recommend their services to many more.
+    time: August 08, 2020
+    star: 5
+  - name: Gowri L. Alavarthi, Ankurams
+    comment: It has been extremely pleasant experience working with your company. Their team could comprehend our requirement well and provided the right advice and solution that we needed meeting all deadlines. We shall definitely prefer and recommend your services for any upcoming requirements.
+    time: September, 2018
+    star: 5
+  - name: Dharam, Exceed Sports
+    comment: I was looking for an affordable e-commerce solution for my sportswear business. KWS team provided me with a cost-effective website with wholesale feature. Their team also helped us upload products and trained us to manage our website with Zoom online sessions.
+    time: October, 2020
+    star: 5
