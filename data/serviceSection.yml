@@ -1,0 +1,44 @@
+---
+enable: true
+topTitle: Services Offered
+title: >
+  ## Web Design & Development
+
+  Owing to the dominance of CMS based websites, almost every website looks similar. Kesavi Web Solutions provide custom UI/UX designing services to build a unique and unforgettable user experience for websites.
+service:
+  - content: >
+      #### UI/UX Design 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg
+  - content: >
+      #### Creative Design 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/creative.svg
+  - content: >
+      #### Branding
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/branding.svg
+  - content: >
+      #### UI/UX Design
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg

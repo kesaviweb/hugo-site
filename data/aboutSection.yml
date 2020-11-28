@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Us
+
+  Kesavi Web Solutions specializes in building need-specific, CMS (WordPress, Joomla, Drupal, Shopify, Woocommerce, Magento, Ghost, JAMStack) based websites, and customized web apps. All our websites adhere to the modern standards of speed, rich user experience (UI/UX), and Google ranking potential matrix.
+content: >
+  ### We design and build above industry-standard digital solutions.
+
+  Our team is a bunch of spirited individuals, experts in their own domain, synergizing to produce results that satisfy the needs of our clients. We as a team have delivered a good number of projects to be proud of – go through our portfolio to experience it. We are always ready for new challenges and would love to hear your idea. If you are interested in highly productive collaboration and a long-lasting professional relationship, get in touch to discuss your project.
+button1Name: Hire Us
+button2Name: Instant Quote
+button1Target: contact
+button2Target: https://wa.me/918700212323
+image: images/about/what-makes-your-business-unique-img.jpg

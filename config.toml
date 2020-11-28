@@ -1,3 +1,91 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = 6
+theme = "portio"
+title = "Digital Wings for Your Business!! Get Professional Websites, Web Apps, iOS & Android Mobile Apps. | Best Web Designing Agency in South Delhi & NCR. One Stop Affordable Digital Marketing Solutions for All Businesses!"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Work"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © KWS 2018"
+footerLogo = "images/contact/KWS_Logo-r.png"
+formspreeURL = "https://formspree.io/f/kesaviwebsolutions@gmail.com"
+googleAnalytics = "UA-124653587-2"
+logo = "images/site-navigation/KWS_Logo.png"
+
+[params.address]
+address = "2092/60E-2, M.B. Extn., Badarpur, New Delhi, IN."
+email = "info@kesaviweb.com"
+openingHours = "Open from 9am to 9pm (close on Sundays)"
+phone = "+(91) 97174 53904"
+
+[params.map]
+APIkey = "AIzaSyDiWIbf2ELlla6TlytGl9QHK6EGXX7CCZw"
+latitude = "28.4891883"
+longitude = "77.312297"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/kesaviweb"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/company/kesavi-web-solutions"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://www.instagram.com/kesaviweb"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/kesaviS"
+weight = 4
