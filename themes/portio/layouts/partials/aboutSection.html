@@ -3,7 +3,7 @@
 <section class="section about" id="about">
     <div class="container">
         <div class="row text-center">
-            <div class="col-lg-6 offset-lg-3">
+            <div class="col-lg-12">
                 <div class="about_header mb-5">
                     <span class="top-title">{{ .topTitle }}</span>
                     {{ .title | markdownify}}
@@ -15,11 +15,11 @@
                 <div class="about_content">
                     <div class="about_content-thumb">
                         <div class="about-svg">
-                            <img src="images/hero/figure-svg.svg" alt="figure-svg">
+                            <img src="https://res.cloudinary.com/ontraveldiary/image/upload/v1606541806/KWS-paper-bird_zbmojs.svg" alt="figure-svg">
                         </div>
                         <div class="about_content-thumb-image">
                             <img src="{{ .image | absURL }}" alt="about-img"
-                                style='-webkit-mask: url({{"images/about/about-mask-svg.svg" | absURL}}); -webkit-mask-size: contain;'>
+                                style='-webkit-mask: url({{"https://res.cloudinary.com/ontraveldiary/image/upload/v1606542790/about-mask-svg_vbmxuc.png" | absURL}}); -webkit-mask-size: contain;'>
                         </div>
                     </div>
                     <div class="about_content-inner">

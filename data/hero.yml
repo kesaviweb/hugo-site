@@ -7,6 +7,6 @@ content: >
   We are the most affordable web design agency based in South Delhi, New Delhi India. We aim to provide you with the perfect digital platform at tailor-made costs to take your business online and reach maximum potential customers.
 buttonName: Contact Us
 buttonURL: contact
-image: images/hero/web-development-hero-img-01.jpg
-videoThumb: images/hero/video-thumbnail.jpg
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606541815/hero-image_ovmucj.jpg
+videoThumb: https://res.cloudinary.com/ontraveldiary/image/upload/v1606541806/video-thumbnail_ovqhlb.jpg
+videoURL: https://www.youtube.com/watch?v=Rg1P4fr6mzw
