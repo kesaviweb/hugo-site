@@ -89,3 +89,9 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/kesaviS"
 weight = 4
+
+# Taxonomy
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"

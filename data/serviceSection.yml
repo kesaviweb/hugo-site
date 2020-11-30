@@ -4,41 +4,47 @@ topTitle: Services Offered
 title: >
   ## Web Design & Development
 
-  Owing to the dominance of CMS based websites, almost every website looks similar. Kesavi Web Solutions provides custom UI/UX designing services to build a unique and unforgettable user experience for websites.
+  KWS provides your business with a comprehensive package. We strive to understand your specific needs and build a technology stack accordingly.
 service:
+  - content: >
+      #### Customized Websites
+
+      We design customized websites to meet the specific needs for all kinds of businesses, small, medium & large. We would love to hear your idea and work you.  
+
+      **Starting @ ₹5,999/-**
+    image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606751529/kesaviweb-hugo/service/browser_mgiox0.png
+  - content: >
+      #### WordPress Websites
+
+      WordPress websites are easy to maintain and cost effective. WordPress is the most used CMS all over the world for blogging, business & services websites, & portfolio websites.  
+
+      **Starting @ ₹2,999/-**
+    image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606751529/kesaviweb-hugo/service/wordpress_s67hvm.png
+  - content: >
+      #### E-Commerce Portal
+
+      Get single/multi vendor e-commerce portals to sell your products online, collect payments via payment gateways and manage your orders with ease.  
+
+      **Starting @ ₹7,999/-**
+    image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606751529/kesaviweb-hugo/service/software_wvu9il.png
   - content: >
       #### UI/UX Design 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
+      Using our creativity and digital skills, we design professional, stunning and optimized user interfaces that enhance user experience and highlight your services & products.  
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      **Starting @ ₹299/Screen**
+    image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606751529/kesaviweb-hugo/service/design_ilgv2e.png
   - content: >
-      #### Creative Design 
+      #### Custom Softwares
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+      Kesavi Web Solutions builds customized softwares such as Customer Relationship Managment softwares for use at Schools, Hospitals, POS Terminals, Restaurants etc.  
+
+      **Starting @ ₹15,999/**
+    image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606751529/kesaviweb-hugo/service/software_wvu9il.png
   - content: >
-      #### Branding
+      #### PPC Campaigns
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
+      Kesavi Web Solutions designs and runs optimized PPC campaigns for search ads to boost your sales by targeting and retargeting your potential customers.  
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      **Starting @ ₹4999/Month**
+    image: https://res.cloudinary.com/ontraveldiary/image/upload/v1606751529/kesaviweb-hugo/service/software_wvu9il.png
