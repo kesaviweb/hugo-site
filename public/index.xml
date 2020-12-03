@@ -2,134 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Wings for Your Business!! Get Professional Websites, Web Apps, iOS &amp; Android Mobile Apps. | Best Web Designing Agency in South Delhi &amp; NCR. One Stop Affordable Digital Marketing Solutions for All Businesses!</title>
-    <link>http://example.org/</link>
+    <link>https://kesaviweb.netlify.app/</link>
     <description>Recent content on Digital Wings for Your Business!! Get Professional Websites, Web Apps, iOS &amp; Android Mobile Apps. | Best Web Designing Agency in South Delhi &amp; NCR. One Stop Affordable Digital Marketing Solutions for All Businesses!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown Formatting Demo</title>
-      <link>http://example.org/blog/markdown-formatting-demo/</link>
-      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/markdown-formatting-demo/</guid>
-      <description>This example Markdown file compliments of markdown-it.github.io
- h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
-!!!!!! ???? ,, &amp;ndash; &amp;mdash;
-&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
-Emphasis This is bold text
-This is bold text
-This is italic text</description>
-    </item>
-    
+    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate><atom:link href="https://kesaviweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recipe App Ux Study</title>
-      <link>http://example.org/portfolio/recipe-app-ux-study/</link>
+      <link>https://kesaviweb.netlify.app/portfolio/recipe-app-ux-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/recipe-app-ux-study/</guid>
+      <guid>https://kesaviweb.netlify.app/portfolio/recipe-app-ux-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>UX Case Study for Agriculture App</title>
-      <link>http://example.org/portfolio/ux-case-study-for-agriculture-app/</link>
+      <link>https://kesaviweb.netlify.app/portfolio/ux-case-study-for-agriculture-app-copy-2/</link>
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <guid>https://kesaviweb.netlify.app/portfolio/ux-case-study-for-agriculture-app-copy-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>UX Case Study for Agriculture App</title>
+      <link>https://kesaviweb.netlify.app/portfolio/ux-case-study-for-agriculture-app-copy/</link>
+      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/portfolio/ux-case-study-for-agriculture-app-copy/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>UX Case Study for Agriculture App</title>
+      <link>https://kesaviweb.netlify.app/portfolio/ux-case-study-for-agriculture-app/</link>
+      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/portfolio/ux-case-study-for-agriculture-app/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Event App Case Study</title>
-      <link>http://example.org/portfolio/event-app-case-study/</link>
+      <link>https://kesaviweb.netlify.app/portfolio/event-app-case-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/event-app-case-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Designer Conference at Florida 2020</title>
-      <link>http://example.org/blog/designer-conference-at-florida-2020/</link>
-      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      
-      <guid>http://example.org/blog/designer-conference-at-florida-2020/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
+      <guid>https://kesaviweb.netlify.app/portfolio/event-app-case-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Case Study One</title>
-      <link>http://example.org/portfolio/case-study-one/</link>
+      <link>https://kesaviweb.netlify.app/portfolio/case-study-one/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/case-study-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Designers thoughts about mobile UI</title>
-      <link>http://example.org/blog/designers-thoughts-about-mobile-ui/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/designers-thoughts-about-mobile-ui/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>How to become acreative designer</title>
-      <link>http://example.org/blog/how-to-become-acreative-designer/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/how-to-become-acreative-designer/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>New designers limitations</title>
-      <link>http://example.org/blog/new-designers-limitations/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/new-designers-limitations/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Things you must know as a designer</title>
-      <link>http://example.org/blog/things-you-must-know-as-a-designer/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/things-you-must-know-as-a-designer/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>World&#39;s Most Famous App Developers and Designers</title>
-      <link>http://example.org/blog/world-most-famous-app-developers-and-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://example.org/blog/world-most-famous-app-developers-and-designers/</guid>
+      <guid>https://kesaviweb.netlify.app/portfolio/case-study-one/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>You must know this before becoming a designer</title>
-      <link>http://example.org/blog/you-must-know-this-before-becoming-a-designer/</link>
+      <link>https://kesaviweb.netlify.app/blog/you-must-know-this-before-becoming-a-designer/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/blog/you-must-know-this-before-becoming-a-designer/</guid>
+      <guid>https://kesaviweb.netlify.app/blog/you-must-know-this-before-becoming-a-designer/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>The cheapest and most affordable hosting in 2020 - Also amongst the best</title>
+      <link>https://kesaviweb.netlify.app/blog/the-cheapest-and-most-affordable-hosting-in-2020-also-amongst-the-best/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/blog/the-cheapest-and-most-affordable-hosting-in-2020-also-amongst-the-best/</guid>
+      <description>When purchasing a web hosting server for the first time (year), you do not have to think much; as most hosting providers offer hefty discounts on the first year subscription or first few years of subscriptions. Every hosting provider claims to be offering the most affordable hosting plans with huge discounts applied to the normal pricing. But when it comes to renewing your hosting server, you are often out again in search of another budget hosting plan.</description>
+    </item>
+    
+    <item>
+      <title>JAMstack Blog with Draftbox, Ghost CMS,  and Netlify</title>
+      <link>https://kesaviweb.netlify.app/blog/jamstack-blog-with-draftbox-ghost-and-netlify/</link>
+      <pubDate>Fri, 22 May 2020 13:01:35 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/blog/jamstack-blog-with-draftbox-ghost-and-netlify/</guid>
+      <description>Create FREE JAMstack blog with Draftbox, Ghost CMS &amp;amp; Netlify CDN
+I had been running my blog ontraveldiary.com on WordPress for a year, and I must say WordPress is an amazing platform and it is evolving with time to provide better features for bloggers. But at times it becomes an overkill for a simple blogger like me. Trying my way around a number of plugins to achieve a certain goal, I always felt that it would have been better if there was one CMS which didn’t involve so much technical knowledge (trust me you need more than enough technical no-how to get around WordPress, though it is a code free platform for a larger part).</description>
     </item>
     
   </channel>

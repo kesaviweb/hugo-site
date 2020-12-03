@@ -2,9 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Digital Wings for Your Business!! Get Professional Websites, Web Apps, iOS &amp; Android Mobile Apps. | Best Web Designing Agency in South Delhi &amp; NCR. One Stop Affordable Digital Marketing Solutions for All Businesses!</title>
-    <link>http://example.org/tags/</link>
+    <link>https://kesaviweb.netlify.app/tags/</link>
     <description>Recent content in Tags on Digital Wings for Your Business!! Get Professional Websites, Web Apps, iOS &amp; Android Mobile Apps. | Best Web Designing Agency in South Delhi &amp; NCR. One Stop Affordable Digital Marketing Solutions for All Businesses!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 08:06:23 +0000</lastBuildDate><atom:link href="https://kesaviweb.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a2hosting</title>
+      <link>https://kesaviweb.netlify.app/tags/a2hosting/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/a2hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://kesaviweb.netlify.app/tags/blogging/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hosting Services</title>
+      <link>https://kesaviweb.netlify.app/tags/hosting-services/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/hosting-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interserver hosting</title>
+      <link>https://kesaviweb.netlify.app/tags/interserver-hosting/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/interserver-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>siteground</title>
+      <link>https://kesaviweb.netlify.app/tags/siteground/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/siteground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://kesaviweb.netlify.app/tags/web-development/</link>
+      <pubDate>Tue, 07 Jul 2020 08:06:23 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>draftbox.co</title>
+      <link>https://kesaviweb.netlify.app/tags/draftbox.co/</link>
+      <pubDate>Fri, 22 May 2020 13:01:35 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/draftbox.co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heroku.com</title>
+      <link>https://kesaviweb.netlify.app/tags/heroku.com/</link>
+      <pubDate>Fri, 22 May 2020 13:01:35 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/heroku.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>https://kesaviweb.netlify.app/tags/netlify/</link>
+      <pubDate>Fri, 22 May 2020 13:01:35 +0000</pubDate>
+      
+      <guid>https://kesaviweb.netlify.app/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

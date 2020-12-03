@@ -113,7 +113,8 @@
           <h3>Contact Form</h3>
         </div>
         <div class="contact-form-input">
-          <form id="contact-form" action="{{ .Site.Params.formspreeURL }}" method="POST">
+          <form name="contact" method="POST" data-netlify="true"></form>
+          <!--<form id="contact-form" action="{{ .Site.Params.formspreeURL }}" method="POST">-->
 
             <div class="form-row">
 
